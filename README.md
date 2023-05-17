@@ -16,9 +16,44 @@
 
 - 📫 How to reach me **abhiyadav334455@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ua4k0wfktwKkp4vNPrgbMNMF8UYOY8_J/view?usp=sharing](https://drive.google.com/file/d/1Ua4k0wfktwKkp4vNPrgbMNMF8UYOY8_J/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1Ua4k0wfktwKkp4vNPrgbMNMF8UYOY8_J/view?usp=sharing](https://drive.google.com/file/d/1Ua4k0wfktwKkp4vNPrgbMNMF8UYOY8_J/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny😅**
+
+
+<hr/>
+<h2>projects</h2>
+<br/>
+<p><a href="https://search-movie-name-react.netlify.app/">Cenematic App</a></p>
+● In this app you can search movies by entering movie name and you can also mark movie as a favorite movie.<br/>
+● User Interface is Responsive Technologies Included - Html, CSS, React.js, LocalStorage, JavaScript, Netlify, Git.Used API from OMDB API<br/>
+<br/>
+<p><a href="https://gitbucket.netlify.app/">GitFind App</a></p>
+● In this gitfind app you can search for github user name and see the number of repository.You and also see the follower and followingLists with responsive.<br/>
+● Technologies Included - Html, CSS, React.js, JavaScript, Netlify, Git.<br/>
+<br/>
+<p><a href="https://eclectic-cobbler-908dbf.netlify.app/">Ecommerce Website</a></p>
+● t's a ecommerce website based on React-Redux, where you can add item to cart. I created this project to understand more about how redux works as well as to study and practise the concepts of redux <br/>
+●  React, React-Redux, API, React-Router-Dom<br/>
+
+
+<br/>
+🚀 Skills <br/><br/>
+  
+🚀 HTML: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" width="30" height="30"/><br/>
+🚀 CSS: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Logo" width="30" height="30"/><br/>
+🚀 JavaScript: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="30" height="30"/><br/>
+🚀 React: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="30" height="30"/><br/>
+🚀 Redux: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux Logo" width="30" height="30"/><br/>
+
+Tools:<br/>
+  
+🚀 Git: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="30" height="30"/><br/>
+🚀 GitHub: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo" width="30" height="30"/><br/>
+🚀 VSCode: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="30" height="30"/><br/>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
