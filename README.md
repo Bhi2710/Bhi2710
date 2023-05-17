@@ -1,6 +1,6 @@
 ![logo](https://github.com/Bhi2710/Bhi2710/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="center">I am a 2022 graduate of Bachelors of Technology in Information Technology and Engineering. Currently I am upskilling myself by exploring some new technologies. Also, I am working on MERN now-a-days and improving my front-end development skills.</h4>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
